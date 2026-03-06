@@ -1,3 +1,4 @@
 .npm
 node_modules/
 out/
+.file_activity_report.json
